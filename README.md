@@ -1,6 +1,6 @@
 # MatchlockAshigaru
 Include: dynamixel AX-12A program, Bluetooth Commander app and PS3 controller USB Host
-![Matchlock](https://illinoistechrobotics.org/images/matchlock.jpg)
+![Matchlock]([https://illinoistechrobotics.org/images/matchlock.jpg](https://github.com/huyle10/MatchlockAshigaru/blob/master/Matchlock/matchlock.jpg))
 
 ## Inverse Kinematics function in nuke.cpp
 
